@@ -1,0 +1,35 @@
+body
+{
+  color: black;
+  background: #eedecd;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#hand_pose_name
+{
+  color: black;
+}
+.pose_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 30px;
+  letter-spacing: 6px;
+}
+label{
+  font-size: 14px;
+  color:#000000;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
